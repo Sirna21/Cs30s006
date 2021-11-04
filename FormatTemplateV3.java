@@ -4,7 +4,7 @@ import java.io.*;
 import java.text.NumberFormat;
 
 /** ***************************************************
- *  Name:           Sveinson
+ *  Name:           Sirna
  *  Class:          CS30S
  * 
  *  Assignment:     Ax Qy
